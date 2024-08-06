@@ -1,2 +1,2 @@
 # Stuent_ManagementSystem
-基于java基础的学生管理系统
+Java-based student management system
